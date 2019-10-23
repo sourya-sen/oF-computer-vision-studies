@@ -10,6 +10,6 @@ Based on [example-threshold](https://github.com/kylemcdonald/ofxCv/tree/master/e
 
 ## 01_FrameDifferencing
 
-Opens the camera, converts to grayscale, visualizes absolute frame difference, amplified frame difference and visualized buffer holding frame difference values.
+Plays back file, converts to grayscale, visualizes absolute frame difference, amplified frame difference and visualized buffer holding frame difference values.
 
 Based on the [motion detection example](https://github.com/firmread/ofDemystified/tree/master/09-OpenCV-01-MotionDetection) from the book [Creative Coding Demysitfied by Denis Perevalov](https://www.packtpub.com/in/application-development/mastering-openframeworks-creative-coding-demystified).
