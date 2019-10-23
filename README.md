@@ -25,3 +25,8 @@ Visualizing the different kind of blurs available within the `ofxCv` wrapper, op
 ![LinearBlend-Example](screenshots/03-LinearBlend.png)
 
 Based on the [linear blend tutorial on opencv.org](https://docs.opencv.org/master/d5/dc4/tutorial_adding_images.html)
+
+## 04_BrightnessContrast
+![04_BrightnessContrast-Example](screenshots/04-04_BrightnessContrast.png)
+
+Based on the [Changing the contrast and brightness of an image tutorial on opencv.org](https://docs.opencv.org/master/d3/dc1/tutorial_basic_linear_transform.html)
