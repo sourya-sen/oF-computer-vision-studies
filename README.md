@@ -3,13 +3,15 @@ Personal studies in computer vision using openFrameworks and ofxCv as a lot of t
 Dependencies / [openFrameworks 0.10.x](https://openFrameworks.cc), [ofxCv](https://github.com/kylemcdonald/ofxCv).
 
 ## 00_Thresholding
-![Thresholding-example](screemshots/00_Thresholding.png)
+![Thresholding-example](screemshots/00-Thresholding.png)
+
 Opens the camera, converts to grayscale, and visualizes thresholding and autothresholding. Pressing `up arrow` increases the threshold value and `down arrow` decreases the threshold value.
 
 Based on [example-threshold](https://github.com/kylemcdonald/ofxCv/tree/master/example-threshold) from the ofxCv repository.
 
 ## 01_FrameDifferencing
-![Differending-Example](screemshots/01_Differencing.png)
+![Differencing-Example](screemshots/01-Differencing.png)
+
 Plays back file, converts to grayscale, visualizes absolute frame difference, amplified frame difference and visualized buffer holding frame difference values.
 
 Based on the [motion detection example](https://github.com/firmread/ofDemystified/tree/master/09-OpenCV-01-MotionDetection) from the book [Creative Coding Demysitfied by Denis Perevalov](https://www.packtpub.com/in/application-development/mastering-openframeworks-creative-coding-demystified).
