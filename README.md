@@ -20,3 +20,8 @@ Based on the [motion detection example](https://github.com/firmread/ofDemystifie
 ![Blurs-Example](screenshots/02-Blurs.png)
 
 Visualizing the different kind of blurs available within the `ofxCv` wrapper, optionally converting to greyscale before applying the blur. Points to note: differing frame rate/performance between RGB and greyscale versions, as well as performance of the gaussian blur filter.
+
+## 03_LinearBlend
+![LinearBlend-Example](screenshots/03-LinearBlend.png)
+
+Based on the [linear blend tutorial on opencv.org](https://docs.opencv.org/master/d5/dc4/tutorial_adding_images.html)
