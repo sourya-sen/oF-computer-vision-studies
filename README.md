@@ -31,4 +31,4 @@ Based on the [linear blend tutorial on opencv.org](https://docs.opencv.org/maste
 
 Based on the [Changing the contrast and brightness of an image tutorial on opencv.org](https://docs.opencv.org/master/d3/dc1/tutorial_basic_linear_transform.html)
 
-Note: for adjusting gamma/custom LUTs, look at the [ofxCV gamma example](https://github.com/kylemcdonald/ofxCv/tree/master/example-gamma) which is similar in the follow up to the aforementioned openCV tutorial.
+Note: for adjusting gamma/custom LUTs, look at the [ofxCV gamma example](https://github.com/kylemcdonald/ofxCv/tree/master/example-gamma) which is similar to the follow up to the aforementioned openCV tutorial.
