@@ -3,14 +3,14 @@ Personal studies in computer vision using openFrameworks and ofxCv as a lot of t
 Dependencies / [openFrameworks 0.10.x](https://openFrameworks.cc), [ofxCv](https://github.com/kylemcdonald/ofxCv).
 
 ## 00_Thresholding
-![Thresholding-example](screemshots/00-Thresholding.png)
+![Thresholding-example](screenshots/00-Thresholding.png)
 
 Opens the camera, converts to grayscale, and visualizes thresholding and autothresholding. Pressing `up arrow` increases the threshold value and `down arrow` decreases the threshold value.
 
 Based on [example-threshold](https://github.com/kylemcdonald/ofxCv/tree/master/example-threshold) from the ofxCv repository.
 
 ## 01_FrameDifferencing
-![Differencing-Example](screemshots/01-Differencing.png)
+![Differencing-Example](screenshots/01-Differencing.png)
 
 Plays back file, converts to grayscale, visualizes absolute frame difference, amplified frame difference and visualized buffer holding frame difference values.
 
