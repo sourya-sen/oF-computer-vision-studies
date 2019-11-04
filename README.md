@@ -34,6 +34,6 @@ Based on the [Changing the contrast and brightness of an image tutorial on openc
 Note: for adjusting gamma/custom LUTs, look at the [ofxCV gamma example](https://github.com/kylemcdonald/ofxCv/tree/master/example-gamma) which is similar to the follow up to the aforementioned openCV tutorial.
 
 ## 05_MeshFlow
-![05_MeshFlow-Example](screenshots/05-05_MeshFlow.png)
+![05_MeshFlow-Example](screenshots/05-MeshFlow.png)
 
 Based on the [flow-distort-example in the ofxCv repo](https://github.com/kylemcdonald/ofxCv/tree/master/example-flow-distort) but modified and updated with inspiration from the Video Morphing Example from [Creative Coding Demysitfied by Denis Perevalov](https://www.packtpub.com/in/application-development/mastering-openframeworks-creative-coding-demystified).
